@@ -32,8 +32,6 @@ Test folder - contains input image file for test the algorithm
 
 saved_models - necessary models are saved in this folder
 
-bottleneck_features - related bottleneck features are available in this folder
-
 haarcascades- Xml file for OpenCv face detector class.
 
 ## Test Result
